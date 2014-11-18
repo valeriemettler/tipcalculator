@@ -1,4 +1,4 @@
 tipcalculator
 =============
 
-ios tip calculator app
+iOS tip calculator app (work in progress)
